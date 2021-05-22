@@ -45,9 +45,9 @@ require 'vendor/autoload.php';
 use irteelsms\IRTEELSMSAPI;
 ```
 ### Step 2:
-set your API_KEY from `https://mywebhost.com/sms-api/info` (your application install url)
+set your API_KEY from `https://mywebhost.com/sms/api` (your account api url)
 ```php
-$api_key = 'YWRtaW46YWRtaW4ucGFzc3dvcmQ=';
+$api_key = 'YWRtaW46YWRtaW5ucGFzc4dvcmQ=';
 ```
 ### Step 3:
 Change the from number below. It can be a valid phone number or a String
@@ -69,8 +69,8 @@ You can insert maximum 100 numbers using comma in single api request.
 You have to must include Country code at beginning of the phone number.  
 
 ### Step 5:
-Replace your Install URL like `https://mywebhost.com/sms/api` with `https://irteelsms.com/demo/`
-`sms/api` is mandatory on your install url
+Replace your URL like `https://mywebhost.com/sms/api` with `https://irteelsms.com/demo/`
+`sms/api` is mandatory on your account url
 
 ```php
 $url = 'https://irteelsms.com/demo/sms/api';
