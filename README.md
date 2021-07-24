@@ -198,4 +198,4 @@ IRTEEL SMS API return response with `json` format, like:
 
 ## Authors
 
-* **ing: Cyrille Brice Bidongo Bekono** - *Initial work* - [akasham67](https://github.com/irteel/irteelsms)
+* **ing: Cyrille Brice Bidongo Bekono** - *Initial work* - [irteel](https://github.com/irteel/irteelsms)
