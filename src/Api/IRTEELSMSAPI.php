@@ -37,7 +37,7 @@ class IRTEELSMSAPI
 
         try {
         
-			$curl = curl_init($url);
+			$curl = curl_init($gateway_url);
 			
 
 			$authorization = 'Authorization: Bearer '.$token;
@@ -76,7 +76,7 @@ class IRTEELSMSAPI
 			
 			if (curl_errno($curl)) {
 			
-				 $output = curl_error($ch);
+				 $output = curl_error($curl);
 				}
 			
 			curl_close($curl);
