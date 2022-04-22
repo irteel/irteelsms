@@ -36,7 +36,7 @@ git clone https://github.com/irteel/irteelsms.git
  ### Step 1:
 If install IRTEEL SMS API using Git Clone then load your IRTEEL SMS API Class file and Use namespace. 
 ```php
-require_once 'src/api/IRTEELSMSAPI.php';
+require_once 'src/Api/IRTEELSMSAPI.php';
 use IRTEELSMS\IRTEELSMSAPI;
 ```
 If install IRTEEL SMS API using Composer then Require/Include autoload.php file in the index.php of your project or whatever file you need recipient use **IRTEEL SMS API** classes:. 
