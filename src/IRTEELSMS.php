@@ -3,9 +3,9 @@
 namespace IRTEELSMS;
 
 
-require_once 'api/IRTEELSMSAPI.php';
+require_once 'Api/IRTEELSMSAPI.php';
 
-use IRTEELSMS\api\IRTEELSMSAPI;
+use IRTEELSMS\Api\IRTEELSMSAPI;
 
 class IRTEELSMS
 {
