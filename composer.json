@@ -3,7 +3,7 @@
   "description": "irteele SMS API is build for irteel SMS - Bulk SMS Application For Marketing",
   "type": "library",
   "license": "MIT",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "minimum-stability": "stable",
   "authors": [
     {
