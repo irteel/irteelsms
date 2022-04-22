@@ -6,7 +6,7 @@
 
 # IRTEEL SMS API
 
-IRTEEL SMS API is build for IRTEEL SMS - Bulk SMS Application For Marketing
+IRTEEL SMS API is build for IRTEEL SMS - Bulk SMS Application For Marketing.
 
 
 ### Prerequisites
