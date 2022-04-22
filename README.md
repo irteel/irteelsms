@@ -1,8 +1,8 @@
 
-[![Latest Stable Version](https://poser.pugx.org/shamim/irteel-message-api/v/stable)](https://packagist.org/packages/shamim/irteel-message-api?format=flat-square)
-[![License](https://poser.pugx.org/shamim/irteel-message-api/license)](https://packagist.org/packages/shamim/irteel-message-api?format=flat-square)
-[![GitHub issues](https://img.shields.io/github/issues/akasham67/irteel-message-api.svg?style=flat-square)](https://github.com/akasham67/irteel-message-api/issues)
-[![GitHub stars](https://img.shields.io/github/stars/akasham67/irteel-message-api.svg?style=flat-square)](https://github.com/akasham67/irteel-message-api/stargazers)
+[![Latest Stable Version](https://poser.pugx.org/irteel/irteelsms/v/stable)](https://packagist.org/packages/irteel/irteelsms?format=flat-square)
+[![License](https://poser.pugx.org/irteel/irteelsms/license)](https://packagist.org/packages/irteel/irteelsms?format=flat-square)
+[![GitHub issues](https://img.shields.io/github/issues/irteel/irteelsms.svg?style=flat-square)](https://github.com/irteel/irteelsms/issues)
+[![GitHub stars](https://img.shields.io/github/stars/irteel/irteelsms?style=flat-square)](https://github.com/irteel/irteelsms/stargazers)
 
 # IRTEEL SMS API
 
